@@ -30,6 +30,12 @@ The dataset contains retail transaction records from two periods:
 
 The dataset includes information such as invoice numbers, product descriptions, quantities, prices, invoice dates, customer IDs, and countries.
 
+### Dataset Availability
+
+The Online Retail II dataset is required to run this project. The original dataset is not included in this GitHub repository because it exceeds GitHub's file upload size limit.
+
+To run the project, obtain the dataset separately and place it inside the data/raw/ directory with the filename online_retail_II.xlsx.
+
 Technologies Used
 
 - Python
